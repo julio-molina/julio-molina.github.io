@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/julio-molina.github.io/static/css/main.6c6a125c.chunk.css",
+    "main.js": "/julio-molina.github.io/static/js/main.4d7dab6c.chunk.js",
+    "main.js.map": "/julio-molina.github.io/static/js/main.4d7dab6c.chunk.js.map",
+    "runtime-main.js": "/julio-molina.github.io/static/js/runtime-main.0f413c79.js",
+    "runtime-main.js.map": "/julio-molina.github.io/static/js/runtime-main.0f413c79.js.map",
+    "static/js/2.c4f3905b.chunk.js": "/julio-molina.github.io/static/js/2.c4f3905b.chunk.js",
+    "static/js/2.c4f3905b.chunk.js.map": "/julio-molina.github.io/static/js/2.c4f3905b.chunk.js.map",
+    "static/js/3.468d5cd3.chunk.js": "/julio-molina.github.io/static/js/3.468d5cd3.chunk.js",
+    "static/js/3.468d5cd3.chunk.js.map": "/julio-molina.github.io/static/js/3.468d5cd3.chunk.js.map",
+    "index.html": "/julio-molina.github.io/index.html",
+    "static/css/main.6c6a125c.chunk.css.map": "/julio-molina.github.io/static/css/main.6c6a125c.chunk.css.map",
+    "static/js/2.c4f3905b.chunk.js.LICENSE.txt": "/julio-molina.github.io/static/js/2.c4f3905b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0f413c79.js",
+    "static/js/2.c4f3905b.chunk.js",
+    "static/css/main.6c6a125c.chunk.css",
+    "static/js/main.4d7dab6c.chunk.js"
+  ]
+}
